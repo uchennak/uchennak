@@ -1,6 +1,6 @@
 ## Cloud Portfolio 👋
 
-### 1. [Database Migration using DMS](https://github.com/uchennak/db_migration)
+### 1. [Database Migration using DMS](https://github.com/uchennak/db_migration):
 - Utilized various AWS services in order to migrate a MySQL database to Aurora RDS for MySQL
   
 ### 2. [Security Operations Center Honeypot](https://github.com/uchennak/Azure-Hnypot): 
